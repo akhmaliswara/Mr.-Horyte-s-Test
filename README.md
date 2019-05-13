@@ -9,7 +9,7 @@ Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi I
   
 2. Setiap ada soal yang keluar, silahkan kirimkan solusi dalam bentuk docx atau pdf ke 13516118@std.stei.itb.ac.id dengan subjek ```MRHoryteTest_<NIM>_<NomorSoal>```. Nomor soal dapat dilihat dari nama *file* dokumen soal. Silahkan nama dokumennya juga sama dengan nama subjeknya. Di dalam dokumen tersebut juga mencantumkan Nama dan NIM kalian.
   
-3. Nilai maksimum setiap soal akan dituliskan dalam dokumen di soal tersebut, dan setiap ada peserta seleksi yang **_berhasil menyelesaikan soal tersebut dengan benar**_, nilai maksimumnya akan berkurang 5%, sampai 75%.
+3. Nilai maksimum setiap soal akan dituliskan dalam dokumen di soal tersebut, dan setiap ada peserta seleksi yang **_berhasil menyelesaikan soal tersebut dengan benar_**, nilai maksimumnya akan berkurang 5%, sampai 75%.
   
 4. Solusi yang benar tidak hanya jawabannya saja yang benar, tetapi disertai dengan penulisan kaidah matematis(jika diperlukan) yang benar.
 
