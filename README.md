@@ -36,7 +36,7 @@ Nomor 2 : 75%
 Nomor 3 : 100%  
 Nomor 4 : 100%  
 Nomor 5 : 95%  
-Nomor 6 : 100%
+Nomor 6 : 100%  
 Nomor 7 : 100%  
 Nomor 8 : 100%  
 Nomor 9 : 100%
