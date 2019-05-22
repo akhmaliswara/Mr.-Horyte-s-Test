@@ -1,6 +1,6 @@
 # Mr.-Horyte-s-Test
 Soal Teori Seleksi Asisten IRK 2019/2020  
-**Update : 16 Mei 2019 pukul 15.39**
+**Update : 22 Mei 2019 pukul 17.54**
 
 ## Latar Belakang
 Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi IRK. Kalian yang bersemangat mendengarnya pun akhirnya datang ke ruangan yang ditentukan. Setelah semua dari kalian masuk ke ruangan yang ditentukan, pintu tiba-tiba terkunci. Kalianpun berusaha untuk membuka pintu dan jendela, bahkan sampai memukul-mukulkan benda ke jendela, pintu, dan dinding, tetapi tidak ada yang pecah dan rusak. Kalianpun kebingungan karena takut diapa-apakan di dalam ruangan tersebut. Namun, seketika proyektor menyala dan menampilkan video. "Halo, perkenalkan saya Mr.Horyte. Saya adalah dosen dari lab IRK yang paling ditakuti, sampai saya diberhentikan oleh rektor karena terlalu kejamnya saya untuk memberikan tugas dan menilai setiap pekerjaan mahasiswa/-i. Saya sudah mendengar bahwa kalian adalah orang-orang yang cerdas dan katanya terbaik. Saya mau melihat seberapa kualitas kalian dengan soal-soal yang akan saya berikan. Dan, buat yang belum tahu, saya adalah dosen Informatika yang sangat suka dengan teori, sehingga tidak ada *coding* yang diperlukan untuk menjawab soal-soal ini. *Now, prepare for Mr. Horyte's Test!*"
@@ -32,3 +32,6 @@ Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi I
 Nomor 1 : 95%  
 Nomor 2 : 75%  
 Nomor 3 : 100%  
+Nomor 4 : 100%  
+Nomor 5 : 95%  
+Nomor 6 : 100%
