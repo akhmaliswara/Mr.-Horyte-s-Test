@@ -1,6 +1,6 @@
 # Mr.-Horyte-s-Test
 Soal Teori Seleksi Asisten IRK 2019/2020  
-**Update : 31 Mei 2019 pukul 23.49**
+**Update : 31 Mei 2019 pukul 23.59**
 
 ## Latar Belakang
 Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi IRK. Kalian yang bersemangat mendengarnya pun akhirnya datang ke ruangan yang ditentukan. Setelah semua dari kalian masuk ke ruangan yang ditentukan, pintu tiba-tiba terkunci. Kalianpun berusaha untuk membuka pintu dan jendela, bahkan sampai memukul-mukulkan benda ke jendela, pintu, dan dinding, tetapi tidak ada yang pecah dan rusak. Kalianpun kebingungan karena takut diapa-apakan di dalam ruangan tersebut. Namun, seketika proyektor menyala dan menampilkan video. "Halo, perkenalkan saya Mr.Horyte. Saya adalah dosen dari lab IRK yang paling ditakuti, sampai saya diberhentikan oleh rektor karena terlalu kejamnya saya untuk memberikan tugas dan menilai setiap pekerjaan mahasiswa/-i. Saya sudah mendengar bahwa kalian adalah orang-orang yang cerdas dan katanya terbaik. Saya mau melihat seberapa kualitas kalian dengan soal-soal yang akan saya berikan. Dan, buat yang belum tahu, saya adalah dosen Informatika yang sangat suka dengan teori, sehingga tidak ada *coding* yang diperlukan untuk menjawab soal-soal ini. *Now, prepare for Mr. Horyte's Test!*"
@@ -15,7 +15,8 @@ Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi I
   
 4. Solusi yang benar tidak hanya jawabannya saja yang benar, tetapi disertai dengan langkah yang lengkap dan penulisan kaidah matematis(jika diperlukan) yang benar.
 
-5. Kalian boleh mengirimkan lebih dari sekali pada soal yang sama, tetapi dengan penilaian seperti pada nomor 2. 
+5. Kalian boleh mengirimkan lebih dari sekali pada soal yang sama, tetapi dengan penilaian seperti pada nomor 2.  
+**_UPDATE : Setiap berkas yang dikirimkan lebih dari sekali pada soal yang sama, silahkan jelaskan dan tandai perbedaannya dengan berkas versi sebelumnya di berkas tersebut._**
 
 6. Kalian tidak perlu melakukan *fork* terhadap repositori ini.  
 
@@ -29,7 +30,7 @@ Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi I
   
 2. Total nilai pada repositori ini akan ditentukan kemudian.  
 
-3. Batas pengerjaan batch 1(nomor 1-9) adalah sampai 24 Mei 2019. Di luar waktu ini, pengiriman jawaban soal-soal batch 1 ke email tidak akan dibaca.  
+3. **_UPDATE : Batas pengerjaan batch 2(nomor 10-16) adalah sampai 21 Juni 2019 pukul 23.59. Di luar waktu ini, pengiriman jawaban soal-soal batch 2 ke email tidak akan dibaca._**  
 
 ## Nilai Maksimum Soal
 Nomor 10 : 100%  
