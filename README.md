@@ -8,7 +8,8 @@ Pada suatu hari, kalian mendapatkan email atas nama Mr. Horyte tentang seleksi I
 ## Spesifikasi
 1. Soal akan diberikan sewaktu-waktu, mulai dari hari ini sampai waktu yang ditentukan. Batas akhir sementara masih mengikuti ketetapan seleksi, dengan ada kemungkinan untuk dimajukan.
   
-2. Setiap ada soal yang keluar, silahkan kirimkan solusi dalam bentuk PDF ke 13516118@std.stei.itb.ac.id dengan subjek ```MRHoryteTest_<NIM>_<NomorSoal>```. Nomor soal dapat dilihat dari nama *file* dokumen soal. Silahkan nama dokumennya juga sama dengan nama subjeknya. Di dalam dokumen tersebut juga mencantumkan Nama dan NIM kalian. **_UPDATE : Solusi dikirimkan dalam PDF, dan pastikan setiap notasi matematis dapat ditampilkan dalam file yang kalian kumpulkan tanpa harus di-download terlebih dahulu_**
+2. Setiap ada soal yang keluar, silahkan kirimkan solusi dalam bentuk PDF ke 13516118@std.stei.itb.ac.id dengan subjek ```MRHoryteTest_<NIM>_<NomorSoal>```. Nomor soal dapat dilihat dari nama *file* dokumen soal. Silahkan nama dokumennya juga sama dengan nama subjeknya. Di dalam dokumen tersebut juga mencantumkan Nama dan NIM kalian.  
+**_UPDATE : Solusi dikirimkan dalam PDF, dan pastikan setiap notasi matematis dapat ditampilkan dalam file yang kalian kumpulkan tanpa harus di-download terlebih dahulu_**
   
 3. Nilai maksimum setiap soal akan dituliskan dalam dokumen di soal tersebut, dan setiap ada peserta seleksi yang **_berhasil menyelesaikan soal tersebut dengan benar_**, nilai maksimumnya akan berkurang 5%, sampai 75%.
   
